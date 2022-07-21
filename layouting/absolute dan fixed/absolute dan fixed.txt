@@ -1,0 +1,11 @@
+CSS LAYOUTING - ABSOLUTE DAN FIXED
+
+absolute
+--------
+- ketika menggerakkan elemen dengan absolute, elemen akan bergerak relatif terhadap posisi parent-nya, selama parent-nya memiliki position non-static juga
+- ruang yang ditempati oleh elemen dengan position absolute sebelumnya dianggap tidak ada
+
+fixed
+-----
+- ketika menggerakkan elemen dengan fixed, elemen akan bergerak relatif terhadap windows browser
+- tidak terpengaruh oleh elemen non static lainnya

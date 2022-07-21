@@ -1,0 +1,28 @@
+CSS LAYOUTING - OVERFLOW
+
+definisi
+--------
+overflow digunakan untuk mengatur apakah konten akan dipotong atau menambahkan scroll saat konten bablas dari pembungkusnya
+
+macam-macam overflow
+--------------------
+- visible(default)
+- auto
+- hidden
+- scroll
+
+visible
+-------
+- konten akan keluar dari pembungkus apabila jika tidak cukup
+
+auto
+----
+- akan memunculkan scoll vertikal apabila konten tidak cukup
+
+hidden
+------
+- menyembunyikan konten yang keluar dari pembungkus
+
+scroll
+------
+- selalu memunculkan scroll vertikal dan horizontal meskipun konten cukup

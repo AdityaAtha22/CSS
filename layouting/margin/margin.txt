@@ -1,0 +1,12 @@
+CSS LAYOUTING - MARGIN
+
+definisi
+--------
+margin adalah area disekitar elemen
+
+aturan pada margin
+------------------
+- margin bisa bernilai negatif
+- margin tidak saling menambahkan untuk sumbu vertikal tetapi mengambil dari nilai yang terbesar dari sumbu vertikal
+- margin bisa saling menambahkan untuk sumbu horizontal
+- margin bisa bernilai auto

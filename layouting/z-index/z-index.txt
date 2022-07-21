@@ -1,0 +1,6 @@
+CSS LAYOUTING - Z-INDEX
+
+definisi
+--------
+- z-index digunakan untuk mengatur tumpukan pada elemen-elemen yang memiliki position non-static
+- semakin besar nilai z-index maka semakin ke depan elemen tersebut

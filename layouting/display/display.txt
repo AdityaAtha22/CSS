@@ -1,0 +1,40 @@
+CSS LAYOUTING - DISPLAY
+
+definisi
+--------
+- setiap tag pada html berada di dalam sebuah kotak
+- properti display pada css mengatur perilaku dari kotak tersebut
+- setiap tag pada html memiliki nilai properti display
+
+macam-macam properti display
+----------------------------
+- inline
+- block
+- inline-block
+- none
+
+inline
+------
+- menambahkan baris baru ketika dibuat
+- lebar dan tinggi elemennya sebesar konten yang adad di dalamnya
+- tidak dapat diatur tinggi dan lebarnya
+- margin dan padding hanya mempengaruhi elemen secara horizontal, tidak vertikal
+- contoh elemen inline yaitu b, strong, button, input, dan lain-lain
+
+inline-block
+------------
+- perilaku dasarnya sama dengan inline
+- perbedaanya, elemen inline-block dapat diatur tinggi dan lebarnya
+- merupakan properti buatan, bukan properti default
+
+block
+-----
+- menambahkan baris baru ketika dibuat
+- secara default, lebarnya memenuhi lebar browser
+- dapat mengatur tinggi dan lebarnya
+- contoh elemen block yaitu h1-h6, p, div, ul, li, dan lain-lain
+
+none
+----
+- digunakan untuk menghilangkan sebuah elemen
+

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>overflow</title>
+		<style>
+			.visible {
+				background-color: lightgreen;
+				width: 200px;
+				height: 200px;
+			}
+
+			.auto {
+				width: 200px;
+				height: 200px;
+				overflow: hidden;
+				background-color: palevioletred;
+			}
+
+			.hidden {
+				width: 200px;
+				height: 200px;
+				overflow: hidden;
+				background-color: rgb(250, 206, 103);
+			}
+
+			.scroll {
+				width: 200px;
+				height: 200px;
+				overflow: scroll;
+				background-color: skyblue;
+			}
+		</style>
+	</head>
+	<body>
+		<p class="visible">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem odit eum et
+			fugit, fugiat voluptas eaque voluptatum illo quia quibusdam explicabo quae
+			delectus cupiditate? Iure rerum laudantium ipsam a, porro sed. Veniam
+			eligendi nostrum aut quas cumque assumenda. Assumenda architecto tempora
+			expedita at
+		</p>
+		<p class="auto">
+			Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, odio
+			mollitia aliquam vero eius, rem voluptatibus eveniet sit reprehenderit
+			quidem praesentium blanditiis nulla deleniti tempora, corporis
+			perspiciatis at modi accusantium. Molestias, autem. Soluta, eligendi
+			quisquam magni dolorum doloribus cumque qui vel praesentium ea eum, eaque
+			eos. Praesentium error magni temporibus?
+		</p>
+		<p class="hidden">
+			Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, odio
+			mollitia aliquam vero eius, rem voluptatibus eveniet sit reprehenderit
+			quidem praesentium blanditiis nulla deleniti tempora, corporis
+			perspiciatis at modi accusantium. Molestias, autem. Soluta, eligendi
+			quisquam magni dolorum doloribus cumque qui vel praesentium ea eum, eaque
+			eos. Praesentium error magni temporibus?
+		</p>
+		<p class="scroll">
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, ex.
+			Pariatur esse, quas voluptates quisquam voluptatibus vero temporibus nulla
+			sapiente.
+		</p>
+	</body>
+</html>

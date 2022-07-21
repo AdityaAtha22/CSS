@@ -1,0 +1,29 @@
+CSS LAYOUTING - PADDING DAN BORDER
+
+padding
+-------
+padding adalah area antara konten dengan border pada elemen
+
+aturan pada padding
+-------------------
+- padding tidak bisa bernilai negatif
+- padding mempengaruhi elemen disekitarnya
+- padding tidak bisa bernilai auto
+
+border
+------
+border adalah batas disekeliling konten dan padding
+
+nilai pada border
+-----------------
+- width : lebar border
+- style border : jenis border
+- color : warna border
+
+box-sizing
+----------
+box-sizing digunakan untuk mempertahankan lebar dari sebuah elemen yang disebabkan oleh padding dan border
+
+nilai pada box-sizing
+---------------------
+- border-box

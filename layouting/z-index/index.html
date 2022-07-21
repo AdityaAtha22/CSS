@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>z-index</title>
+		<style>
+			body {
+				height: 1000px;
+			}
+
+			div {
+				width: 100px;
+				height: 100px;
+			}
+
+			.satu {
+				background-color: brown;
+				position: absolute;
+				z-index: 100;
+			}
+
+			.dua {
+				background-color: purple;
+				position: absolute;
+				top: 50px;
+				left: 50px;
+				z-index: 5;
+			}
+
+			.tiga {
+				background-color: green;
+				position: absolute;
+				top: 100px;
+				left: 100px;
+				z-index: 60;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="satu"></div>
+			<div class="dua"></div>
+			<div class="tiga"></div>
+		</div>
+	</body>
+</html>

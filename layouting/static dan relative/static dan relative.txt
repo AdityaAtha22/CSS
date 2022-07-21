@@ -1,0 +1,17 @@
+CSS LAYOUTING - STATIC DAN RELATIVE
+
+position
+--------
+position memungkinkan untuk menggeserkan posisi elemen tanpa mempengaruhi elemen disekitarnya
+
+static
+------
+- static adalah nilai default dari tiap elemen ketika tidak diberi properti position
+- elemen selain properti static dapat menggunakan properti top, right, bottom, dan left
+- elemen dengan position selain static dapat menggunakan nilai negatif
+
+relative
+--------
+- ketika menggerakkan elemen dengan relative, elemen akan bergerak relatif terhadap posisi semula-nya
+- ruang yang ditempati oleh elemen dengan position relative sebelumnya masih ada
+- jika memberi nilai top:0 dan left:0, maka elemen dengan relative tidak berubah posisinya
