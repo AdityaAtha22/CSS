@@ -1,0 +1,9 @@
+CSS - INHERITANCE
+
+definisi
+--------
+inheritance adalah sifat penurunan efek css dari sebuah elemen ke elemen yang lain. syarat untuk inheritance adalah elemen tersebut harus berada di dalam elemen lainnya
+
+contoh
+------
+a { color : inherit;}

@@ -1,0 +1,16 @@
+CSS - SPECIFICITY
+
+definisi
+--------
+specificity digunakan untuk menentukan style mana yang akan diterapkan dalam suatu elemen
+
+skor specificity
+----------------
+- inline : 1000
+- id : 100
+- class : 10
+- elemen html : 1
+
+urutan specificity
+------------------
+inline->id->class->elemen html

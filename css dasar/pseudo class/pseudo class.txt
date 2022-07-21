@@ -1,0 +1,24 @@
+CSS - PSEUDO CLASS
+
+definisi
+--------
+pseudo class adalah kelas semu yang dimiliki oleh sebuah elemen html, yang membuat kita dapat mendefinisikan style pada keadaan tertentu dari elemen tersebut
+
+pseudo class berhubungan dengan link
+------------------------------------
+- :link : style default pada link
+- :hover : style ketika cursor mouse berada diatas elemen
+- :active : style ketika link di klik(ditahan)
+- :visited : style ketika sebuah link sudah pernah dikunjungi
+
+pseudo class berhubungan dengan posisi elemen(berdasarkan parent)
+-----------------------------------------------------------------
+- :first-child : memilih elemen pertama dari sebuah elemen pembungkus
+- :last-child : memilih elemen terakhir dari sebuah elemen pembungkus
+- :nth-child() : memilih elemen ke-n dari sebuah elemen pembungkus
+
+pseudo class berhubungan dengan posisi elemen(tidak berdasarkan parent)
+-----------------------------------------------------------------------
+- :first-of-type : memilih elemen pertama dari sebuah jenis tag
+- :nth-of-type() : memilih elemen ke-n dari sebuah jenis tag
+- :last-of-type : memilih elemen terakhir dari sebuah jenis tag

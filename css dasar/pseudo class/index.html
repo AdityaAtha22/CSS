@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>pseudo class</title>
+		<style>
+			h1:hover {
+				font-size: 30px;
+				font-family: Arial, Helvetica, sans-serif;
+			}
+
+			h1:active {
+				font-style: italic;
+			}
+
+			h1 a {
+				width: 160px;
+				color: orange;
+			}
+
+			li:first-child a {
+				color: red;
+			}
+
+			li:last-child a {
+				color: black;
+			}
+
+			li:nth-child(5) a {
+				color: green;
+			}
+
+			p:nth-of-type(2) {
+				color: orange;
+				font-weight: bold;
+			}
+
+			p:last-of-type {
+				color: blue;
+			}
+		</style>
+	</head>
+	<body>
+		<h1><a href="#">hello world</a></h1>
+		<ul>
+			<li><a href="#">link 1</a></li>
+			<li><a href="#">link 2</a></li>
+			<li><a href="#">link 3</a></li>
+			<li><a href="#">link 4</a></li>
+			<li><a href="#">link 5</a></li>
+			<li><a href="#">link 6</a></li>
+			<li><a href="#">link 7</a></li>
+			<li><a href="#">link 8</a></li>
+			<li><a href="#">link 9</a></li>
+			<li><a href="#">link 10</a></li>
+		</ul>
+		<p>
+			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit quidem
+			tenetur minus odit, modi, animi quos natus illo magnam iste corrupti ea
+			sequi facilis. Quo voluptatibus ex necessitatibus obcaecati vitae.
+		</p>
+		<p>
+			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laudantium
+			laborum provident odit, dolorem odio aperiam quis sed ex inventore
+			dolorum.
+		</p>
+		<p>
+			Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt,
+			tempora magni sequi ad animi ullam libero ipsam amet quasi aspernatur
+			molestias reprehenderit itaque esse dolore dolorem aliquid minus harum
+			assumenda quis laudantium. Nostrum saepe explicabo dolor aut
+			exercitationem itaque id.
+		</p>
+	</body>
+</html>

@@ -1,0 +1,8 @@
+CSS - BACKGROUND
+
+properti untuk background
+-------------------------
+- background-color : mengatur warna pada background
+- background-image : mengatur gambar yang akan dijadikan background
+- background-position : mengatur posisi gambar pada background
+- background-repeat : mengatur jenis perulangan gambar pada background

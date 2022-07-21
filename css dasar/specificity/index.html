@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>specificity</title>
+		<style>
+			#p1 {
+				color: red; /* p1 dominan daripada p */
+			}
+
+			p {
+				color: green;
+			}
+
+			ul li {
+				color: blue;
+			}
+
+			ul#sarapan li.favorit {
+				color: green;
+			}
+		</style>
+	</head>
+	<body>
+		<p id="p1">Lorem ipsum dolor sit amet.</p>
+		<ul id="sarapan">
+			<li class="favorit">nasi goreng</li>
+			<li>mie goreng</li>
+			<li>sate</li>
+		</ul>
+	</body>
+</html>

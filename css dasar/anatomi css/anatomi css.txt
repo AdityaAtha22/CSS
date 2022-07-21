@@ -1,0 +1,14 @@
+CSS - ANATOMI CSS
+
+struktur
+--------
+selector { property: value; }
+
+selector
+--------
+- selector digunakan untuk memilih dan memanipulasi elemen spesifik pada html
+- elemen dipilih berdasarkan tag, id, class bahkan pola
+
+contoh
+------
+h1 { color: blue; }

@@ -1,0 +1,22 @@
+CSS - SELECTOR
+
+definisi
+--------
+selector digunakan pada css untuk mengenali sebuah elemen html yang akan diberi style
+
+macam-macam selector
+--------------------
+- elemen html
+- id
+- class
+- complex selector
+
+id
+--
+- sebuah elemen hanya boleh memiliki 1 id
+- setiap halaman hanya boleh memiliki 1 elemen dengan id tersebut
+
+class
+-----
+- setiap elemen boleh memiliki lebih dari 1 class
+- setiap halaman boleh memiliki lebih dari 1 elemen dengan class yang sama

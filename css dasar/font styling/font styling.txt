@@ -1,0 +1,10 @@
+CSS - FONT STYLING
+
+properti untuk font
+-------------------
+- font-family : mengatur jenis font
+- font-size : mengatur ukuran font
+- font-weight : mengatur ketebalan font
+- font-variant : membuat font menjadi small caps
+- font-style : membuat font menjadi miring
+- line-height : mengatur spasi antar baris

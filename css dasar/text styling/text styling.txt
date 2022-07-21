@@ -1,0 +1,11 @@
+CSS - TEXT STYLING
+
+properti untuk text
+-------------------
+- color : memberi warna pada teks
+- text-align : mengatur format teks
+- text-indent : mengatur indentasi teks
+- text-decoration: mengatur garis pada teks
+- text-transform : mengatur huruf menjadi besar, kecil, atau kapital
+- letter-spacing : mengatur spasi antar huruf
+- word-spacing : mengatur spasi antar kata

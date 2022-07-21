@@ -1,0 +1,7 @@
+CSS - PENEMPATAN CSS
+
+cara penempatan css
+-------------------
+1. embed : menempatkan css di tag <style></style>
+2. inline : menempatkan css di atribut style 
+3. eksternal : menempatkan css di tag link

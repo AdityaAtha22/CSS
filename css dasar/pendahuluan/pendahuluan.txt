@@ -1,0 +1,9 @@
+CSS - PENDAHULUAN
+
+definisi
+--------
+- css adalah singkatan dari cascading style sheet
+- css digunakan untuk mengatur tampilan halaman web
+- css bertujuan untuk memisah konten dan style
+
+
