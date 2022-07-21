@@ -1,0 +1,14 @@
+CSS 3 - TEXT SHADOW
+
+definisi
+--------
+text shadow digunakan untuk memberikan bayangan pada teks
+
+nilai pada text shadow
+----------------------
+(x-offset)->(y-offset)->(blur)->(color)
+
+aturan
+------
+- text shadow tidak memiliki nilai inset dan spread
+- nilai pada text shadow bisa diberi lebih dari 1

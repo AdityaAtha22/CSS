@@ -1,0 +1,10 @@
+CSS 3 - BORDER RADIUS
+
+definisi
+--------
+border radius digunakan untuk membuat ujung kotak pada elemen html menjadi tumpul
+
+shorthand border radius
+-----------------------
+- border-radius : 0 50% 0 50%; (4 sisi)
+- border-radius : 20px 10px 40px 30px;

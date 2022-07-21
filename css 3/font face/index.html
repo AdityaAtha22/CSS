@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>font face</title>
+		<style>
+			@font-face {
+				font-family: "Alex Brush";
+				src: url("AlexBrush-Regular.ttf") format("truetype");
+			}
+
+			@font-face {
+				font-family: "Kaushan";
+				src: url("KaushanScript-Regular.otf") format("truetype");
+			}
+
+			h1 {
+				font-size: 100px;
+				text-align: center;
+			}
+
+			.kaushan {
+				font-family: "Kaushan";
+			}
+
+			.alexbrush {
+				font-family: "Alex Brush";
+			}
+
+			.indie {
+				font-family: "Indie Flower", cursive;
+				/* font-family: "Inter", sans-serif; */
+			}
+		</style>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inter:wght@200;400;600;700;900&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<h1 class="kaushan">kaushan font</h1>
+		<h1 class="alexbrush">alex brush font</h1>
+		<h1 class="indie">indie flower</h1>
+	</body>
+</html>

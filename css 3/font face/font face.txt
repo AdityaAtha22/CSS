@@ -1,0 +1,12 @@
+CSS 3 - FONT FACE
+
+definisi
+--------
+font face digunakan apabila font yang kita butuhkan di google font tidak terpenuhi
+
+contoh
+------
+@font-face {
+  font-family : "nama font";
+  src : url("nama file font") format("woff atau lainnya");
+}

@@ -1,0 +1,23 @@
+CSS 3 - BOX SHADOW
+
+definisi
+--------
+box shadow digunakan untuk memberikan bayangan pada elemen
+
+value box-shadow
+----------------
+(x-offset)->(y-offset)->(blur)->(color)
+(inset)->(x-offset)->(y-offset)->(blur)->(spread)->(color)
+
+aturan
+------
+nilai bisa lebih dari 1
+
+nilai pada box shadow
+---------------------
+- x-offset : mengatur jarak bayangan pada sumbu horizontal
+- y-offset : mengatur jarak bayangan pada sumbu vertical
+- blur : mengatur tingkat blur bayangan
+- color : warna bayangan
+- inset : bayangan pindah ke dalam
+- spread : ukuran bayangan

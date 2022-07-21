@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+			}
+
+			.kotak {
+				width: 100px;
+				height: 100px;
+				/* transition: 1s linear; */
+				transition: 1s ease;
+				/* transition: 1s ease-in; */
+				/* transition: 1s ease-out; */
+				/* transition: 1s ease-in-out; */
+				transition-delay: 1s;
+				background-color: salmon;
+			}
+
+			.container:hover .kotak {
+				transform: rotate(180deg);
+				background-color: blue;
+				margin-left: 800px;
+			}
+		</style>
+		<title>transition</title>
+	</head>
+	<body>
+		<div class="container"><div class="kotak"></div></div>
+	</body>
+</html>

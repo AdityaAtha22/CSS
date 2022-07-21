@@ -1,0 +1,35 @@
+CSS 3 - TRANSITION
+
+definisi
+--------
+properti transition digunakan untuk mengubah nilai dari properti html secara halus
+
+nilai pada transition
+---------------------
+- properti 
+- durasi 
+- fungsi 
+- delay
+
+nilai pada properti
+-------------------
+- all
+- nama properti
+- none
+
+nilai pada durasi
+-----------------
+- s(detik) atau ms
+
+nilai pada fungsi
+-----------------
+- ease : default
+- linear : datar
+- ease-in : lambat kemudian cepat
+- ease-out : cepat kemudian lambat
+- ease-in-out : lambat kemudian cepat kemudian lambat lagi
+- cubiz-bezier(w, x, y, z) : custom
+
+nilai pada delay
+----------------
+- s atau ms

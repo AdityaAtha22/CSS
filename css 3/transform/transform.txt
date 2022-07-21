@@ -1,0 +1,53 @@
+CSS 3 - TRANSFORM
+
+definisi
+--------
+transform digunakan untuk memanipulasi format visual dari elemen html
+
+fungsi pada transform
+---------------------
+- scale()
+- transform()
+- skew()
+- translate()
+
+
+scale()
+-------
+digunakan untuk memperbesar atau memperkecil ukuran elemen
+
+nilai pada scale()
+------------------
+- scale() : memperbesar atau memperkecil elemen
+- scaleX() : memperbesar atau memperkecil ukuran elemen secara horizontal
+- scaleY() : memperbesar atau memperkecil ukuran elemen secara vertikal
+
+transform()
+-----------
+digunakan untuk memutar elemen
+
+nilai pada transform()
+----------------------
+- transform() : memutar elemen
+- transformX() : memutar elemen dengan sumbu x
+- transformY() : memutar elemen dengan sumbu y
+
+skew()
+------
+digunakan untuk memiringkan elemen
+
+nilai pada skew()
+-----------------
+- skew() : memiringkan elemen
+- skewX() : memiringkan elemen secara horizontal
+- skewY() : memiringkan elemen secara vertikal
+
+translate()
+-----------
+digunakan untuk merubah posisi elemen
+
+nilai pada translate()
+----------------------
+- translate() : merubah posisi elemen
+- translateX() : merubah posisi secara horizontal
+- translateY() : merubah posisi secara vertikal

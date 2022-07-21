@@ -1,0 +1,8 @@
+CSS 3 - PENDAHULUAN
+
+kenapa css 3
+------------
+- membuat website lebih fleksibel
+- membuat mock-up dengan cepat tanpa bantuan javascript
+- mengurangi penggunaan gambar
+- penggunaan selector untuk menghindari penggunaan markup yang boros

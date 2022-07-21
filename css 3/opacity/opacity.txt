@@ -1,0 +1,16 @@
+CSS 3 - OPACITY
+
+definisi
+--------
+opacity digunakan untuk mengatur transparansi pada elemen
+
+aturan opacity
+--------------
+transparansi mewarisi nilai pada elemen di dalamnya
+
+contoh
+------
+- opacity : 0.7;
+- opacity : 50%;
+- opacity : 1; (transparansi 0%)
+- opacity : 0; (transparansi 100%)

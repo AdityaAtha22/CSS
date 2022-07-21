@@ -1,0 +1,11 @@
+CSS 3 - WEB FONT GENERATOR
+
+definisi
+--------
+digunakan untuk mengubah otf atau ttf menjadi woff
+
+kenapa woff
+-----------
+- web open file format
+- dibuat khusus untuk website
+- di-load lebih cepat daripada jenis font lain

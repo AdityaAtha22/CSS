@@ -1,0 +1,10 @@
+CSS 3 - RGBA DAN HSLA
+
+definisi
+--------
+rgba dan hsla digunakan untuk memberikan transparansi pada warna, bukan elemen
+
+contoh
+------
+background-color: rgba(255, 165, 0, 0.6);
+background-color: hsla(24, 100%, 68%, 0.5);
